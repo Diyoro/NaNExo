@@ -1,0 +1,10 @@
+Plateforme en ligne de gestion de versions et de collaboration pour les projets de développement logiciel.
+Permet de stocker et de partager son code.
+Suivre les modifications apportées par d'autres utilisateurs.
+Contribuer aux projets de développement open source.
+Facilite le travail en équipe.
+Permet de suivre les modifications apportées au code.
+Partage des projets avec d'autres développeurs.
+Utilisation de commandes Git pour gérer les versions.
+Possibilité de faire des "pull request" pour fusionner les modifications.
+Utilisation de dépôts pour stocker les projets.
